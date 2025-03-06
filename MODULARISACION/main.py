@@ -1,0 +1,1 @@
+from module import sumar,restar,multiplicar,dividir
