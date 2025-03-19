@@ -152,6 +152,3 @@ match sel:
                 n += 1
             return suma_cuadrados / n  
         print("La varianza de la lista es:", calcular_varianza(vec))
-        
-    case 8:
-        def
